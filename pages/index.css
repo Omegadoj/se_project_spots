@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/profile.css);
+@import url(../blocks/cards.css);
+@import url(../blocks/card.css);
+@import url(../vendor/fonts.css);
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+@import url("../blocks/footer.css");
+
+body {
+  font-family: "Poppins", Arial, sans-serif;
+}
