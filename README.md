@@ -16,4 +16,4 @@ TODO - Describe the project and its functionality.
 
 This webpage is deployed to GitHub Pages
 
-- Deployment Link:
+- Deployment Link: https://omegadoj.github.io/se_project_spots/
